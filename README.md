@@ -29,6 +29,13 @@ https://www.kaggle.com/datasets/mahdiehhajian/composition-of-foods-raw-processed
 - Scikit-learn
 - Jupyter Notebook
 
+## Machine Learning Models
+
+- Linear Regression
+- Polynomial Regression
+- Ridge Regression
+- GridSearchCV for Hyperparameter Tuning
+
 ## Project Structure
 
 ```
